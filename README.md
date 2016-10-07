@@ -5,7 +5,7 @@ This repository includes the source code in C++, a compiled version (Windows 64-
 
 Compilation instructions are included in the maxit.cpp source code, which is the only source file needed.
 
-MaxIt's Artificial Intelligence is a Monte-Carlo, and the software uses parallel threading for maximum efficiency
+MaxIt's Artificial Intelligence is a Monte-Carlo, and the software uses parallel threading for maximum efficiency.
 
 Initially, MaxIt is a DOS game. One of the only documentation available is located at http://www.craigcolvin.com/Moosesoftware/maxit_rules.html
 
