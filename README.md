@@ -1,7 +1,7 @@
 # MaxIt
 Classical game of MaxIt
 
-This repository includes the source code in C++, a compiled version (Windows 64-bits), and a configuration launch .bat file.
+This repository includes the source code in C++, a compiled version (Windows 64-bits), and a configuration launch maxit.bat file, which allows to change the board size, the direction of player's play (horizontally or vertically), AI's parameterization...
 
 Compilation instructions are included in the maxit.cpp source code, which is the only source file needed.
 
