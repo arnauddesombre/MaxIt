@@ -15,4 +15,4 @@ Initially, MaxIt is a DOS game. One of the only documentation available is locat
 
 This version of MaxIt implements **MaxIt** (the winner has the highest score), **MinIt** (the winner has the lowest score), and **ZeroIt** (the winner has the smallest score in absolute value). Although a player's greedy strategy is more or less optimal for MaxIt and MinIt, it is far from the case for ZeroIt so this game is actually more challenging.
 
-![Screenshot](https://s7.postimg.org/56iroltzf/Maxit.png)
+![Screenshot](https://s3.postimg.org/nu7zknt4j/Maxit.png)
